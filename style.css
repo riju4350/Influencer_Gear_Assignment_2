@@ -206,6 +206,10 @@ footer p{
     border-radius: 50%;
     background-color: rgba(83, 82, 82, 0.424) ;
 }
+.footer-icons a{
+    text-decoration: none;
+    color:white;
+}
 /* .card_img{
     width:300px;
 }
