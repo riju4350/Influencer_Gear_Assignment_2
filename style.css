@@ -256,7 +256,7 @@ footer p{
     }
 }
 @media (max-width:500px){
-    .banner-right img, .feature_left img{
+    .banner-right img{
         transform: none;
         width: 350px;
     }
